@@ -10,6 +10,7 @@ A web-based application developed to manage traffic fines and improve the fine m
 
 **Technologies Used:**
 - PHP
+- PhpMyAdmin
 - HTML
 - CSS
 - JavaScript
@@ -17,10 +18,12 @@ A web-based application developed to manage traffic fines and improve the fine m
 - XAMPP
 
 **Main Features:**
-- Police officer and citizen login
-- Digital fine issuance
-- Fine record management
-- Citizen fine history
+- Police officer and user login
+- Functionalities to issue fines
+- Pay fines online 
+- Submit appeals
+- View appeal
+- fine details
 
 ### 2. Care Compass Hospital Management System
 
@@ -28,6 +31,7 @@ A web application developed to support hospital management activities.
 
 **Technologies Used:**
 - PHP
+- PhpMyAdmin
 - HTML
 - CSS
 - JavaScript
