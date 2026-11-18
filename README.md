@@ -40,5 +40,7 @@ A web application developed to support hospital management activities.
 
 **Main Features:**
 - Patient registration
-- Doctor appointment booking
-- Staff management
+- Doctor scheduling
+- Appointment booking
+- Billing functionalities.
+
