@@ -39,6 +39,5 @@ A web application developed to support hospital management activities.
 - Doctor appointment booking
 - Staff management
 
-## Purpose
 
 These projects helped me improve my skills in web development, database management, and programming.
