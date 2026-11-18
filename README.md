@@ -38,6 +38,3 @@ A web application developed to support hospital management activities.
 - Patient registration
 - Doctor appointment booking
 - Staff management
-
-
-These projects helped me improve my skills in web development, database management, and programming.
