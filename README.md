@@ -1,7 +1,5 @@
 # Web Application Development
 
-This repository contains web development projects completed during my Software Engineering studies.
-
 ## Projects
 
 ### 1. Police Fine Management System
